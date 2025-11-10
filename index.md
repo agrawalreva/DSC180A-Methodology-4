@@ -1,9 +1,11 @@
 # DSC180A Methodology Assignment 4
 
-**Name:** Reva Agrawal  
+**Name:** Reva Agrawal 
+
 **Email:** ragrawal@ucsd.edu
 
 **Section:** B15 
+
 **Mentor:** Yu-Xiang Wang
 
 ---
