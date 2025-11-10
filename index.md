@@ -1,5 +1,3 @@
-# DSC180A Methodology Assignment 4
-
 **Name:** Reva Agrawal 
 
 **Email:** ragrawal@ucsd.edu
